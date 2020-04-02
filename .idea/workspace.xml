@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be0bf157-a531-48ec-80b8-ab6133e613fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XLR2Cb561iYT2qXo2WhaGZqcvY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="machineLearning" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="machineLearning" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jonas\PycharmProjects\machineLearning" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="machineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Jonas\Anaconda3\envs\tensorflowSafe\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be0bf157-a531-48ec-80b8-ab6133e613fb" name="Default Changelist" comment="" />
+      <created>1580823178478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580823178478</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="376" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581005739072">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="223" y="376" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1581005739072" />
+    <state x="1693" y="514" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581107127469">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="1693" y="514" key="#com.intellij.fileTypes.FileTypeChooser/161.0.2399.1440@161.0.2399.1440" timestamp="1581107127469" />
+    <state x="1124" y="653" key="FileChooserDialogImpl" timestamp="1585743208559">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="1124" y="653" key="FileChooserDialogImpl/161.0.2399.1440@161.0.2399.1440" timestamp="1585743208559" />
+    <state width="1844" height="496" key="GridCell.Tab.0.bottom" timestamp="1584886745153">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="1844" height="496" key="GridCell.Tab.0.bottom/161.0.2399.1440@161.0.2399.1440" timestamp="1584886745153" />
+    <state width="1844" height="496" key="GridCell.Tab.0.center" timestamp="1584886745153">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="1844" height="496" key="GridCell.Tab.0.center/161.0.2399.1440@161.0.2399.1440" timestamp="1584886745153" />
+    <state width="1844" height="496" key="GridCell.Tab.0.left" timestamp="1584886745153">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="1844" height="496" key="GridCell.Tab.0.left/161.0.2399.1440@161.0.2399.1440" timestamp="1584886745153" />
+    <state width="1844" height="496" key="GridCell.Tab.0.right" timestamp="1584886745153">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="1844" height="496" key="GridCell.Tab.0.right/161.0.2399.1440@161.0.2399.1440" timestamp="1584886745153" />
+    <state width="577" height="482" key="GridCell.Tab.1.bottom" timestamp="1581073374271">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="577" height="482" key="GridCell.Tab.1.bottom/161.0.2399.1440@161.0.2399.1440" timestamp="1581073374271" />
+    <state width="577" height="482" key="GridCell.Tab.1.center" timestamp="1581073374271">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="577" height="482" key="GridCell.Tab.1.center/161.0.2399.1440@161.0.2399.1440" timestamp="1581073374271" />
+    <state width="577" height="482" key="GridCell.Tab.1.left" timestamp="1581073374271">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="577" height="482" key="GridCell.Tab.1.left/161.0.2399.1440@161.0.2399.1440" timestamp="1581073374271" />
+    <state width="577" height="482" key="GridCell.Tab.1.right" timestamp="1581073374271">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state width="577" height="482" key="GridCell.Tab.1.right/161.0.2399.1440@161.0.2399.1440" timestamp="1581073374271" />
+    <state x="349" y="456" key="IDE.errors.dialog" timestamp="1580851056222">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="349" y="456" key="IDE.errors.dialog/161.0.2399.1440@161.0.2399.1440" timestamp="1580851056222" />
+    <state x="867" y="353" width="996" height="707" key="SettingsEditor" timestamp="1581005579412">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="867" y="353" width="996" height="707" key="SettingsEditor/161.0.2399.1440@161.0.2399.1440" timestamp="1581005579412" />
+    <state x="441" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1581268484613">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="441" y="545" key="com.intellij.ide.util.TipDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1581268484613" />
+  </component>
+</project>
