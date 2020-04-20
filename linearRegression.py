@@ -17,17 +17,16 @@ import pickle
 from matplotlib import style
 
 
-class test1:
+class example1:
     def main(self):
         # Separates the database values that has a semicolon between each one.
         data = pd.read_csv('student-mat.csv', sep=';')
 
-        print("Before:")
+        # print("Before:")
         # print(data.head())
 
         # Everything here is known as an attribute.
         data = np.array(data[['G1', 'G2', 'G3', 'studytime', 'failures', 'absences']])
-        print("!Before:")
         # print(data)
 
         # G3 is a label because we want to predict this. What we're essentially looking for.
@@ -102,4 +101,4 @@ class test1:
 
 
 if __name__ == '__main__':
-    test1().main()
+    example1().main()

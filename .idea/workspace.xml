@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be0bf157-a531-48ec-80b8-ab6133e613fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KNearestAlg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K-Nearest-Alg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KNearestAlg.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNearestAlg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linearRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/linearRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machineLearningManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/machineLearningManager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studentmodel.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/studentmodel.pickle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -97,6 +96,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="kMeans" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="machineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kMeans.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="linearRegression" type="PythonConfigurationType" factoryName="Python">
       <module name="machineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,10 +138,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="smvWorking" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="machineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/smvWorking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.linearRegression" />
+      <item itemvalue="Python.kMeans" />
       <item itemvalue="Python.K-Nearest-Alg" />
       <item itemvalue="Python.Manager" />
+      <item itemvalue="Python.linearRegression" />
+      <item itemvalue="Python.smvWorking" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -138,14 +181,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="376" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586871477292">
+    <state x="223" y="376" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587241349116">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state x="223" y="376" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1586871477292" />
+    <state x="223" y="376" width="1089" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1587241349116" />
     <state x="1693" y="514" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585839666742">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
     <state x="1693" y="514" key="#com.intellij.fileTypes.FileTypeChooser/161.0.2399.1440@161.0.2399.1440" timestamp="1585839666742" />
+    <state x="438" y="459" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587241359887">
+      <screen x="161" y="0" width="2399" height="1440" />
+    </state>
+    <state x="438" y="459" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1587241359887" />
     <state x="1677" y="340" key="#main" timestamp="1585839758431">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
@@ -154,38 +201,38 @@
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
     <state x="1124" y="653" key="FileChooserDialogImpl/161.0.2399.1440@161.0.2399.1440" timestamp="1586871475629" />
-    <state width="1155" height="635" key="GridCell.Tab.0.bottom" timestamp="1586876803477">
+    <state width="1154" height="382" key="GridCell.Tab.0.bottom" timestamp="1587378848779">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="635" key="GridCell.Tab.0.bottom/161.0.2399.1440@161.0.2399.1440" timestamp="1586876803477" />
-    <state width="1155" height="635" key="GridCell.Tab.0.center" timestamp="1586876803476">
+    <state width="1154" height="382" key="GridCell.Tab.0.bottom/161.0.2399.1440@161.0.2399.1440" timestamp="1587378848779" />
+    <state width="1154" height="382" key="GridCell.Tab.0.center" timestamp="1587378848779">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="635" key="GridCell.Tab.0.center/161.0.2399.1440@161.0.2399.1440" timestamp="1586876803476" />
-    <state width="1155" height="635" key="GridCell.Tab.0.left" timestamp="1586876803476">
+    <state width="1154" height="382" key="GridCell.Tab.0.center/161.0.2399.1440@161.0.2399.1440" timestamp="1587378848779" />
+    <state width="1154" height="382" key="GridCell.Tab.0.left" timestamp="1587378848779">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="635" key="GridCell.Tab.0.left/161.0.2399.1440@161.0.2399.1440" timestamp="1586876803476" />
-    <state width="1155" height="635" key="GridCell.Tab.0.right" timestamp="1586876803477">
+    <state width="1154" height="382" key="GridCell.Tab.0.left/161.0.2399.1440@161.0.2399.1440" timestamp="1587378848779" />
+    <state width="1154" height="382" key="GridCell.Tab.0.right" timestamp="1587378848779">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="635" key="GridCell.Tab.0.right/161.0.2399.1440@161.0.2399.1440" timestamp="1586876803477" />
-    <state width="1155" height="482" key="GridCell.Tab.1.bottom" timestamp="1586871456276">
+    <state width="1154" height="382" key="GridCell.Tab.0.right/161.0.2399.1440@161.0.2399.1440" timestamp="1587378848779" />
+    <state width="1971" height="503" key="GridCell.Tab.1.bottom" timestamp="1587241396713">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="482" key="GridCell.Tab.1.bottom/161.0.2399.1440@161.0.2399.1440" timestamp="1586871456276" />
-    <state width="1155" height="482" key="GridCell.Tab.1.center" timestamp="1586871456276">
+    <state width="1971" height="503" key="GridCell.Tab.1.bottom/161.0.2399.1440@161.0.2399.1440" timestamp="1587241396713" />
+    <state width="1971" height="503" key="GridCell.Tab.1.center" timestamp="1587241396713">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="482" key="GridCell.Tab.1.center/161.0.2399.1440@161.0.2399.1440" timestamp="1586871456276" />
-    <state width="1155" height="482" key="GridCell.Tab.1.left" timestamp="1586871456275">
+    <state width="1971" height="503" key="GridCell.Tab.1.center/161.0.2399.1440@161.0.2399.1440" timestamp="1587241396713" />
+    <state width="1971" height="503" key="GridCell.Tab.1.left" timestamp="1587241396713">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="482" key="GridCell.Tab.1.left/161.0.2399.1440@161.0.2399.1440" timestamp="1586871456275" />
-    <state width="1155" height="482" key="GridCell.Tab.1.right" timestamp="1586871456276">
+    <state width="1971" height="503" key="GridCell.Tab.1.left/161.0.2399.1440@161.0.2399.1440" timestamp="1587241396713" />
+    <state width="1971" height="503" key="GridCell.Tab.1.right" timestamp="1587241396713">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state width="1155" height="482" key="GridCell.Tab.1.right/161.0.2399.1440@161.0.2399.1440" timestamp="1586871456276" />
+    <state width="1971" height="503" key="GridCell.Tab.1.right/161.0.2399.1440@161.0.2399.1440" timestamp="1587241396713" />
     <state x="349" y="456" key="IDE.errors.dialog" timestamp="1580851056222">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
@@ -194,10 +241,10 @@
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
     <state x="867" y="353" width="996" height="707" key="SettingsEditor/161.0.2399.1440@161.0.2399.1440" timestamp="1581005579412" />
-    <state x="441" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1586860938512">
+    <state x="441" y="545" key="com.intellij.ide.util.TipDialog" timestamp="1587241164414">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>
-    <state x="441" y="545" key="com.intellij.ide.util.TipDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1586860938512" />
+    <state x="441" y="545" key="com.intellij.ide.util.TipDialog/161.0.2399.1440@161.0.2399.1440" timestamp="1587241164414" />
     <state x="1624" y="329" key="search.everywhere.popup" timestamp="1586871326635">
       <screen x="161" y="0" width="2399" height="1440" />
     </state>

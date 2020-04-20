@@ -1,4 +1,4 @@
-import linearRegression, KNearestAlg
+import linearRegression, KNearestAlg, smvWorking, kMeans
 import time
 
 
@@ -10,21 +10,38 @@ class manager:
         print("-----------------------------------------")
 
         while True:
-            print("(1): Linear Regression")
-            print("(2): K Nearest Algorithm")
-            value = input("[?]: Enter an 1 or 2 for which algorithm you want to run: ")
+            print("(1): Linear Regression, purpose: regression")
+            print("(2): K Nearest Algorithm, purpose: classification & regression")
+            print("(3): SMV Algorithm, purpose: classification & regression")
+            print("(4): K Means Clustering Algorithm, purpose: classification & regression")
+            value = input("\n[?]: Enter a number for which algorithm you want to run: ")
             if value == "1":
                 print("\n[Running]: Linear Regression")
                 time.sleep(2)
-                linearRegression.test1().main()
+                linearRegression.example1().main()
                 break
             elif value == "2":
                 print("\n[Running]: K Nearest Algorithm")
                 time.sleep(2)
-                KNearestAlg.firstTest().main()
+                KNearestAlg.example1().main()
                 break
+            elif value == "3":
+                print("\n[Running]: SMV")
+                time.sleep(2)
+                smvWorking.example1().main()
+                break
+            elif value == "4":
+                print("\n[Running]: K Means Algorithm")
+                time.sleep(2)
+                kMeans.example1().main()
+                break
+            # elif value == "5":
+            #     print("\n[Running]: ?????")
+            #     time.sleep(2)
+            #     print("N/A")
+            #     break
             else:
-                print("\nWrong value printed... Try again.\n")
+                print("\n[!]: Wrong value printed... Try again.\n")
                 continue
 
 

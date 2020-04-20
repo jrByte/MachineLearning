@@ -20,7 +20,7 @@ from matplotlib import style
 # has the possibility of it becoming a tie.
 # More information: https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
 # https://scikit-learn.org/stable/getting_started.html
-class firstTest:
+class example1:
     def main(self):
         data = pd.read_csv("car.data")
         print("\nChecking that data is being parsed correctly.")
@@ -45,7 +45,7 @@ class firstTest:
         acc = 0.00
         count = 0
         neighbors = 1
-        maxAttempts = 20
+        maxAttempts = 100
         maxNeighbors = 15
         bestAcc = 0.00
         bestNeighbors = 0
@@ -90,4 +90,4 @@ class firstTest:
 
 
 if __name__ == '__main__':
-    firstTest().main()
+    example1().main()
