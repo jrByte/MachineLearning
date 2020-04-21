@@ -14,6 +14,7 @@ class manager:
             print("(2): K Nearest Algorithm, purpose: classification & regression")
             print("(3): SMV Algorithm, purpose: classification & regression")
             print("(4): K Means Clustering Algorithm, purpose: classification & regression")
+            print("(5): Neural Network (Work in progress N/A)")
             value = input("\n[?]: Enter a number for which algorithm you want to run: ")
             if value == "1":
                 print("\n[Running]: Linear Regression")
@@ -35,11 +36,10 @@ class manager:
                 time.sleep(2)
                 kMeans.example1().main()
                 break
-            # elif value == "5":
-            #     print("\n[Running]: ?????")
-            #     time.sleep(2)
-            #     print("N/A")
-            #     break
+            elif value == "5":
+                print("\n[Running]: Neural Network")
+                time.sleep(2)
+                break
             else:
                 print("\n[!]: Wrong value printed... Try again.\n")
                 continue
